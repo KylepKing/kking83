@@ -1,0 +1,89 @@
+Number of cars:     22
+Make:           Honda
+Year:            2009
+Price:    $    10,000
+
+Make:        Infiniti
+Year:            1966
+Price:    $    26,200
+
+Make:        Infiniti
+Year:            1974
+Price:    $    28,000
+
+Make:          Jaguar
+Year:            1969
+Price:    $    29,200
+
+Make:          Jaguar
+Year:            1988
+Price:    $     8,200
+
+Make:             Kia
+Year:            2007
+Price:    $     4,000
+
+Make:           Lexus
+Year:            1989
+Price:    $    29,000
+
+Make:           Lexus
+Year:            2005
+Price:    $     7,000
+
+Make:           Mazda
+Year:            1998
+Price:    $    21,300
+
+Make:            Mini
+Year:            1965
+Price:    $    25,400
+
+Make:            Mini
+Year:            2010
+Price:    $    18,500
+
+Make:      Mitsubishi
+Year:            1989
+Price:    $     7,700
+
+Make:      Mitsubishi
+Year:            2006
+Price:    $    22,300
+
+Make:         Peugeot
+Year:            1992
+Price:    $    19,200
+
+Make:          Suzuki
+Year:            1973
+Price:    $    23,800
+
+Make:          Suzuki
+Year:            1981
+Price:    $    25,700
+
+Make:          Suzuki
+Year:            1999
+Price:    $    21,400
+
+Make:          Suzuki
+Year:            2002
+Price:    $    26,100
+
+Make:          Toyota
+Year:            1999
+Price:    $     1,800
+
+Make:      Volkswagen
+Year:            2009
+Price:    $    23,200
+
+Make:           Volvo
+Year:            1963
+Price:    $    16,100
+
+Make:           Volvo
+Year:            2004
+Price:    $     9,500
+
